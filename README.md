@@ -28,14 +28,14 @@ A web application for cataloging and tracking vinyl records. Made to combine a p
 - Integration with external vinyl databases
 
 ## Repository Structure
-/components - Reusable UI components
-/services - API and data services
-/dist - Build output (ignored in GitHub)
-/node_modules - Dependencies (ignored via .gitignore)
-App.tsx - Main application entry
-index.tsx - Root render file
-index.html - HTML template
-package.json - Project config & dependencies
-tsconfig.json - TypeScript configuration
-vite.config.ts - Vite build configuration
-README.md - Project overview
+/components - Reusable UI components  
+/services - API and data services  
+/dist - Build output (ignored in GitHub)  
+/node_modules - Dependencies (ignored via .gitignore)  
+App.tsx - Main application entry  
+index.tsx - Root render file  
+index.html - HTML template  
+package.json - Project config & dependencies  
+tsconfig.json - TypeScript configuration  
+vite.config.ts - Vite build configuration  
+README.md - Project overview  
